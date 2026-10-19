@@ -1,0 +1,22 @@
+
+=== Caso 1. Ruta de ambulancia (costo: minutos) ===
+Tipo de grafo: dirigido y ponderado (DiGraph)
+Nodos (V): 7
+Aristas (E): 11
+Estados alcanzables desde Base: Base, A, B, C, D, E, Hospital
+Meta: Hospital
+Ruta de menor costo: Base -> A -> C -> Hospital
+Costo total: 15 min
+Diagrama guardado en: /mnt/data/actividad_21_22_entrega/diagramas/grafo_ambulancia.png
+
+=== Caso 2. Entrega de artesanías (costo: kilómetros) ===
+Tipo de grafo: dirigido y ponderado (DiGraph)
+Nodos (V): 6
+Aristas (E): 10
+Estados alcanzables desde Taller: Taller, Norte, Sur, Empaque, Entrega, Mercado
+Meta: Entrega
+Ruta de menor costo: Taller -> Sur -> Empaque -> Mercado -> Entrega
+Costo total: 11 km
+Diagrama guardado en: /mnt/data/actividad_21_22_entrega/diagramas/grafo_artesanias.png
+
+Ejecución finalizada. Ambos costos se verificaron sumando sus aristas.
