@@ -1,0 +1,10 @@
+test_bad_permutation (test_proyecto.ProjectTests.test_bad_permutation) ... ok
+test_closed_route (test_proyecto.ProjectTests.test_closed_route) ... ok
+test_deap (test_proyecto.ProjectTests.test_deap) ... skipped 'DEAP no instalado; validación pendiente'
+test_exact_square (test_proyecto.ProjectTests.test_exact_square) ... ok
+test_reference (test_proyecto.ProjectTests.test_reference) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.220s
+
+OK (skipped=1)
